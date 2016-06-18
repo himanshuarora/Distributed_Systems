@@ -1,0 +1,2500 @@
+checking basic remote method call... ok
+checking remote method argument passing... ok
+checking remote method return value... ok
+checking remote method exception forwarding... ok
+checking argument passing, return, and exceptions at once... ok
+checking method calls on stub created from a skeleton... ok
+checking that skeleton constructors and stub factory reject null... ok
+checking that skeleton constructors and stub factory reject bad interfaces... ok
+checking skeleton listening... ok
+checking skeleton restart... ok
+checking that stubs can't be made from skeletons with no address... ok
+checking that skeleton calls service_error... ok
+checking that stubs attempt connections... ok
+checking stub equals method... ok
+checking stub hashCode method... ok
+checking stub toString method... ok
+checking that stubs are serializable... ok
+checking method overloading... ok
+checking method shadowing... ok
+checking remote interface inheritance... ok
+checking server subclassing... ok
+checking that only interface methods can be called remotely... ok
+checking skeleton multithreading... ok
+
+passed: 23       failed: 0       not run: 0
+checking basic remote method call... ok
+checking remote method argument passing... ok
+checking remote method return value... ok
+checking remote method exception forwarding... ok
+checking argument passing, return, and exceptions at once... ok
+checking method calls on stub created from a skeleton... ok
+checking that skeleton constructors and stub factory reject null... ok
+checking that skeleton constructors and stub factory reject bad interfaces... ok
+checking skeleton listening... ok
+checking skeleton restart... ok
+checking that stubs can't be made from skeletons with no address... ok
+checking that skeleton calls service_error... ok
+checking that stubs attempt connections... ok
+checking stub equals method... ok
+checking stub hashCode method... ok
+checking stub toString method... ok
+checking that stubs are serializable... ok
+checking method overloading... ok
+checking method shadowing... ok
+checking remote interface inheritance... ok
+checking server subclassing... ok
+checking that only interface methods can be called remotely... ok
+checking skeleton multithreading... ok
+
+passed: 23       failed: 0       not run: 0
+checking basic remote method call... ok
+checking remote method argument passing... ok
+checking remote method return value... ok
+checking remote method exception forwarding... ok
+checking argument passing, return, and exceptions at once... ok
+checking method calls on stub created from a skeleton... ok
+checking that skeleton constructors and stub factory reject null... ok
+checking that skeleton constructors and stub factory reject bad interfaces... ok
+checking skeleton listening... ok
+checking skeleton restart... ok
+checking that stubs can't be made from skeletons with no address... ok
+checking that skeleton calls service_error... ok
+checking that stubs attempt connections... ok
+checking stub equals method... ok
+checking stub hashCode method... ok
+checking stub toString method... ok
+checking that stubs are serializable... ok
+checking method overloading... ok
+checking method shadowing... ok
+checking remote interface inheritance... ok
+checking server subclassing... ok
+checking that only interface methods can be called remotely... ok
+checking skeleton multithreading... ok
+
+passed: 23       failed: 0       not run: 0
+checking basic remote method call... ok
+checking remote method argument passing... ok
+checking remote method return value... ok
+checking remote method exception forwarding... ok
+checking argument passing, return, and exceptions at once... ok
+checking method calls on stub created from a skeleton... ok
+checking that skeleton constructors and stub factory reject null... ok
+checking that skeleton constructors and stub factory reject bad interfaces... ok
+checking skeleton listening... ok
+checking skeleton restart... ok
+checking that stubs can't be made from skeletons with no address... ok
+checking that skeleton calls service_error... ok
+checking that stubs attempt connections... ok
+checking stub equals method... ok
+checking stub hashCode method... ok
+checking stub toString method... ok
+checking that stubs are serializable... ok
+checking method overloading... ok
+checking method shadowing... ok
+checking remote interface inheritance... ok
+checking server subclassing... ok
+checking that only interface methods can be called remotely... ok
+checking skeleton multithreading... ok
+
+passed: 23       failed: 0       not run: 0
+checking basic remote method call... ok
+checking remote method argument passing... ok
+checking remote method return value... ok
+checking remote method exception forwarding... ok
+checking argument passing, return, and exceptions at once... ok
+checking method calls on stub created from a skeleton... ok
+checking that skeleton constructors and stub factory reject null... ok
+checking that skeleton constructors and stub factory reject bad interfaces... ok
+checking skeleton listening... ok
+checking skeleton restart... ok
+checking that stubs can't be made from skeletons with no address... ok
+checking that skeleton calls service_error... ok
+checking that stubs attempt connections... ok
+checking stub equals method... ok
+checking stub hashCode method... ok
+checking stub toString method... ok
+checking that stubs are serializable... ok
+checking method overloading... ok
+checking method shadowing... ok
+checking remote interface inheritance... ok
+checking server subclassing... ok
+checking that only interface methods can be called remotely... ok
+checking skeleton multithreading... ok
+
+passed: 23       failed: 0       not run: 0
+checking basic remote method call... ok
+checking remote method argument passing... ok
+checking remote method return value... ok
+checking remote method exception forwarding... ok
+checking argument passing, return, and exceptions at once... ok
+checking method calls on stub created from a skeleton... ok
+checking that skeleton constructors and stub factory reject null... ok
+checking that skeleton constructors and stub factory reject bad interfaces... ok
+checking skeleton listening... ok
+checking skeleton restart... ok
+checking that stubs can't be made from skeletons with no address... ok
+checking that skeleton calls service_error... ok
+checking that stubs attempt connections... ok
+checking stub equals method... ok
+checking stub hashCode method... ok
+checking stub toString method... ok
+checking that stubs are serializable... ok
+checking method overloading... ok
+checking method shadowing... ok
+checking remote interface inheritance... ok
+checking server subclassing... ok
+checking that only interface methods can be called remotely... ok
+checking skeleton multithreading... ok
+
+passed: 23       failed: 0       not run: 0
+checking basic remote method call... ok
+checking remote method argument passing... ok
+checking remote method return value... ok
+checking remote method exception forwarding... ok
+checking argument passing, return, and exceptions at once... ok
+checking method calls on stub created from a skeleton... ok
+checking that skeleton constructors and stub factory reject null... ok
+checking that skeleton constructors and stub factory reject bad interfaces... ok
+checking skeleton listening... ok
+checking skeleton restart... ok
+checking that stubs can't be made from skeletons with no address... ok
+checking that skeleton calls service_error... ok
+checking that stubs attempt connections... ok
+checking stub equals method... ok
+checking stub hashCode method... ok
+checking stub toString method... ok
+checking that stubs are serializable... ok
+checking method overloading... ok
+checking method shadowing... ok
+checking remote interface inheritance... ok
+checking server subclassing... ok
+checking that only interface methods can be called remotely... ok
+checking skeleton multithreading... ok
+
+passed: 23       failed: 0       not run: 0
+checking basic remote method call... ok
+checking remote method argument passing... ok
+checking remote method return value... ok
+checking remote method exception forwarding... ok
+checking argument passing, return, and exceptions at once... ok
+checking method calls on stub created from a skeleton... ok
+checking that skeleton constructors and stub factory reject null... ok
+checking that skeleton constructors and stub factory reject bad interfaces... ok
+checking skeleton listening... ok
+checking skeleton restart... ok
+checking that stubs can't be made from skeletons with no address... ok
+checking that skeleton calls service_error... ok
+checking that stubs attempt connections... ok
+checking stub equals method... ok
+checking stub hashCode method... ok
+checking stub toString method... ok
+checking that stubs are serializable... ok
+checking method overloading... ok
+checking method shadowing... ok
+checking remote interface inheritance... ok
+checking server subclassing... ok
+checking that only interface methods can be called remotely... ok
+checking skeleton multithreading... ok
+
+passed: 23       failed: 0       not run: 0
+checking basic remote method call... ok
+checking remote method argument passing... ok
+checking remote method return value... ok
+checking remote method exception forwarding... ok
+checking argument passing, return, and exceptions at once... ok
+checking method calls on stub created from a skeleton... ok
+checking that skeleton constructors and stub factory reject null... ok
+checking that skeleton constructors and stub factory reject bad interfaces... ok
+checking skeleton listening... ok
+checking skeleton restart... ok
+checking that stubs can't be made from skeletons with no address... ok
+checking that skeleton calls service_error... ok
+checking that stubs attempt connections... ok
+checking stub equals method... ok
+checking stub hashCode method... ok
+checking stub toString method... ok
+checking that stubs are serializable... ok
+checking method overloading... ok
+checking method shadowing... ok
+checking remote interface inheritance... ok
+checking server subclassing... ok
+checking that only interface methods can be called remotely... ok
+checking skeleton multithreading... ok
+
+passed: 23       failed: 0       not run: 0
+checking basic remote method call... ok
+checking remote method argument passing... ok
+checking remote method return value... ok
+checking remote method exception forwarding... ok
+checking argument passing, return, and exceptions at once... ok
+checking method calls on stub created from a skeleton... ok
+checking that skeleton constructors and stub factory reject null... ok
+checking that skeleton constructors and stub factory reject bad interfaces... ok
+checking skeleton listening... ok
+checking skeleton restart... ok
+checking that stubs can't be made from skeletons with no address... ok
+checking that skeleton calls service_error... ok
+checking that stubs attempt connections... ok
+checking stub equals method... ok
+checking stub hashCode method... ok
+checking stub toString method... ok
+checking that stubs are serializable... ok
+checking method overloading... ok
+checking method shadowing... ok
+checking remote interface inheritance... ok
+checking server subclassing... ok
+checking that only interface methods can be called remotely... ok
+checking skeleton multithreading... ok
+
+passed: 23       failed: 0       not run: 0
+checking basic remote method call... ok
+checking remote method argument passing... ok
+checking remote method return value... ok
+checking remote method exception forwarding... ok
+checking argument passing, return, and exceptions at once... ok
+checking method calls on stub created from a skeleton... ok
+checking that skeleton constructors and stub factory reject null... ok
+checking that skeleton constructors and stub factory reject bad interfaces... ok
+checking skeleton listening... ok
+checking skeleton restart... ok
+checking that stubs can't be made from skeletons with no address... ok
+checking that skeleton calls service_error... ok
+checking that stubs attempt connections... ok
+checking stub equals method... ok
+checking stub hashCode method... ok
+checking stub toString method... ok
+checking that stubs are serializable... ok
+checking method overloading... ok
+checking method shadowing... ok
+checking remote interface inheritance... ok
+checking server subclassing... ok
+checking that only interface methods can be called remotely... ok
+checking skeleton multithreading... ok
+
+passed: 23       failed: 0       not run: 0
+checking basic remote method call... ok
+checking remote method argument passing... ok
+checking remote method return value... ok
+checking remote method exception forwarding... ok
+checking argument passing, return, and exceptions at once... ok
+checking method calls on stub created from a skeleton... ok
+checking that skeleton constructors and stub factory reject null... ok
+checking that skeleton constructors and stub factory reject bad interfaces... ok
+checking skeleton listening... ok
+checking skeleton restart... ok
+checking that stubs can't be made from skeletons with no address... ok
+checking that skeleton calls service_error... ok
+checking that stubs attempt connections... ok
+checking stub equals method... ok
+checking stub hashCode method... ok
+checking stub toString method... ok
+checking that stubs are serializable... ok
+checking method overloading... ok
+checking method shadowing... ok
+checking remote interface inheritance... ok
+checking server subclassing... ok
+checking that only interface methods can be called remotely... ok
+checking skeleton multithreading... ok
+
+passed: 23       failed: 0       not run: 0
+checking basic remote method call... ok
+checking remote method argument passing... ok
+checking remote method return value... ok
+checking remote method exception forwarding... ok
+checking argument passing, return, and exceptions at once... ok
+checking method calls on stub created from a skeleton... ok
+checking that skeleton constructors and stub factory reject null... ok
+checking that skeleton constructors and stub factory reject bad interfaces... ok
+checking skeleton listening... ok
+checking skeleton restart... ok
+checking that stubs can't be made from skeletons with no address... ok
+checking that skeleton calls service_error... ok
+checking that stubs attempt connections... ok
+checking stub equals method... ok
+checking stub hashCode method... ok
+checking stub toString method... ok
+checking that stubs are serializable... ok
+checking method overloading... ok
+checking method shadowing... ok
+checking remote interface inheritance... ok
+checking server subclassing... ok
+checking that only interface methods can be called remotely... ok
+checking skeleton multithreading... ok
+
+passed: 23       failed: 0       not run: 0
+checking basic remote method call... ok
+checking remote method argument passing... ok
+checking remote method return value... ok
+checking remote method exception forwarding... ok
+checking argument passing, return, and exceptions at once... ok
+checking method calls on stub created from a skeleton... ok
+checking that skeleton constructors and stub factory reject null... ok
+checking that skeleton constructors and stub factory reject bad interfaces... ok
+checking skeleton listening... ok
+checking skeleton restart... ok
+checking that stubs can't be made from skeletons with no address... ok
+checking that skeleton calls service_error... ok
+checking that stubs attempt connections... ok
+checking stub equals method... ok
+checking stub hashCode method... ok
+checking stub toString method... ok
+checking that stubs are serializable... ok
+checking method overloading... ok
+checking method shadowing... ok
+checking remote interface inheritance... ok
+checking server subclassing... ok
+checking that only interface methods can be called remotely... ok
+checking skeleton multithreading... ok
+
+passed: 23       failed: 0       not run: 0
+checking basic remote method call... ok
+checking remote method argument passing... ok
+checking remote method return value... ok
+checking remote method exception forwarding... ok
+checking argument passing, return, and exceptions at once... ok
+checking method calls on stub created from a skeleton... ok
+checking that skeleton constructors and stub factory reject null... ok
+checking that skeleton constructors and stub factory reject bad interfaces... ok
+checking skeleton listening... ok
+checking skeleton restart... ok
+checking that stubs can't be made from skeletons with no address... ok
+checking that skeleton calls service_error... ok
+checking that stubs attempt connections... ok
+checking stub equals method... ok
+checking stub hashCode method... ok
+checking stub toString method... ok
+checking that stubs are serializable... ok
+checking method overloading... ok
+checking method shadowing... ok
+checking remote interface inheritance... ok
+checking server subclassing... ok
+checking that only interface methods can be called remotely... ok
+checking skeleton multithreading... ok
+
+passed: 23       failed: 0       not run: 0
+checking basic remote method call... ok
+checking remote method argument passing... ok
+checking remote method return value... ok
+checking remote method exception forwarding... ok
+checking argument passing, return, and exceptions at once... ok
+checking method calls on stub created from a skeleton... ok
+checking that skeleton constructors and stub factory reject null... ok
+checking that skeleton constructors and stub factory reject bad interfaces... ok
+checking skeleton listening... ok
+checking skeleton restart... ok
+checking that stubs can't be made from skeletons with no address... ok
+checking that skeleton calls service_error... ok
+checking that stubs attempt connections... ok
+checking stub equals method... ok
+checking stub hashCode method... ok
+checking stub toString method... ok
+checking that stubs are serializable... ok
+checking method overloading... ok
+checking method shadowing... ok
+checking remote interface inheritance... ok
+checking server subclassing... ok
+checking that only interface methods can be called remotely... ok
+checking skeleton multithreading... ok
+
+passed: 23       failed: 0       not run: 0
+checking basic remote method call... ok
+checking remote method argument passing... ok
+checking remote method return value... ok
+checking remote method exception forwarding... ok
+checking argument passing, return, and exceptions at once... ok
+checking method calls on stub created from a skeleton... ok
+checking that skeleton constructors and stub factory reject null... ok
+checking that skeleton constructors and stub factory reject bad interfaces... ok
+checking skeleton listening... ok
+checking skeleton restart... ok
+checking that stubs can't be made from skeletons with no address... ok
+checking that skeleton calls service_error... ok
+checking that stubs attempt connections... ok
+checking stub equals method... ok
+checking stub hashCode method... ok
+checking stub toString method... ok
+checking that stubs are serializable... ok
+checking method overloading... ok
+checking method shadowing... ok
+checking remote interface inheritance... ok
+checking server subclassing... ok
+checking that only interface methods can be called remotely... ok
+checking skeleton multithreading... ok
+
+passed: 23       failed: 0       not run: 0
+checking basic remote method call... ok
+checking remote method argument passing... ok
+checking remote method return value... ok
+checking remote method exception forwarding... ok
+checking argument passing, return, and exceptions at once... ok
+checking method calls on stub created from a skeleton... ok
+checking that skeleton constructors and stub factory reject null... ok
+checking that skeleton constructors and stub factory reject bad interfaces... ok
+checking skeleton listening... ok
+checking skeleton restart... ok
+checking that stubs can't be made from skeletons with no address... ok
+checking that skeleton calls service_error... ok
+checking that stubs attempt connections... ok
+checking stub equals method... ok
+checking stub hashCode method... ok
+checking stub toString method... ok
+checking that stubs are serializable... ok
+checking method overloading... ok
+checking method shadowing... ok
+checking remote interface inheritance... ok
+checking server subclassing... ok
+checking that only interface methods can be called remotely... ok
+checking skeleton multithreading... ok
+
+passed: 23       failed: 0       not run: 0
+checking basic remote method call... ok
+checking remote method argument passing... ok
+checking remote method return value... ok
+checking remote method exception forwarding... ok
+checking argument passing, return, and exceptions at once... ok
+checking method calls on stub created from a skeleton... ok
+checking that skeleton constructors and stub factory reject null... ok
+checking that skeleton constructors and stub factory reject bad interfaces... ok
+checking skeleton listening... ok
+checking skeleton restart... ok
+checking that stubs can't be made from skeletons with no address... ok
+checking that skeleton calls service_error... ok
+checking that stubs attempt connections... ok
+checking stub equals method... ok
+checking stub hashCode method... ok
+checking stub toString method... ok
+checking that stubs are serializable... ok
+checking method overloading... ok
+checking method shadowing... ok
+checking remote interface inheritance... ok
+checking server subclassing... ok
+checking that only interface methods can be called remotely... ok
+checking skeleton multithreading... ok
+
+passed: 23       failed: 0       not run: 0
+checking basic remote method call... ok
+checking remote method argument passing... ok
+checking remote method return value... ok
+checking remote method exception forwarding... ok
+checking argument passing, return, and exceptions at once... ok
+checking method calls on stub created from a skeleton... ok
+checking that skeleton constructors and stub factory reject null... ok
+checking that skeleton constructors and stub factory reject bad interfaces... ok
+checking skeleton listening... ok
+checking skeleton restart... ok
+checking that stubs can't be made from skeletons with no address... ok
+checking that skeleton calls service_error... ok
+checking that stubs attempt connections... ok
+checking stub equals method... ok
+checking stub hashCode method... ok
+checking stub toString method... ok
+checking that stubs are serializable... ok
+checking method overloading... ok
+checking method shadowing... ok
+checking remote interface inheritance... ok
+checking server subclassing... ok
+checking that only interface methods can be called remotely... ok
+checking skeleton multithreading... ok
+
+passed: 23       failed: 0       not run: 0
+checking basic remote method call... ok
+checking remote method argument passing... ok
+checking remote method return value... ok
+checking remote method exception forwarding... ok
+checking argument passing, return, and exceptions at once... ok
+checking method calls on stub created from a skeleton... ok
+checking that skeleton constructors and stub factory reject null... ok
+checking that skeleton constructors and stub factory reject bad interfaces... ok
+checking skeleton listening... ok
+checking skeleton restart... ok
+checking that stubs can't be made from skeletons with no address... ok
+checking that skeleton calls service_error... ok
+checking that stubs attempt connections... ok
+checking stub equals method... ok
+checking stub hashCode method... ok
+checking stub toString method... ok
+checking that stubs are serializable... ok
+checking method overloading... ok
+checking method shadowing... ok
+checking remote interface inheritance... ok
+checking server subclassing... ok
+checking that only interface methods can be called remotely... ok
+checking skeleton multithreading... ok
+
+passed: 23       failed: 0       not run: 0
+checking basic remote method call... ok
+checking remote method argument passing... ok
+checking remote method return value... ok
+checking remote method exception forwarding... ok
+checking argument passing, return, and exceptions at once... ok
+checking method calls on stub created from a skeleton... ok
+checking that skeleton constructors and stub factory reject null... ok
+checking that skeleton constructors and stub factory reject bad interfaces... ok
+checking skeleton listening... ok
+checking skeleton restart... ok
+checking that stubs can't be made from skeletons with no address... ok
+checking that skeleton calls service_error... ok
+checking that stubs attempt connections... ok
+checking stub equals method... ok
+checking stub hashCode method... ok
+checking stub toString method... ok
+checking that stubs are serializable... ok
+checking method overloading... ok
+checking method shadowing... ok
+checking remote interface inheritance... ok
+checking server subclassing... ok
+checking that only interface methods can be called remotely... ok
+checking skeleton multithreading... ok
+
+passed: 23       failed: 0       not run: 0
+checking basic remote method call... ok
+checking remote method argument passing... ok
+checking remote method return value... ok
+checking remote method exception forwarding... ok
+checking argument passing, return, and exceptions at once... ok
+checking method calls on stub created from a skeleton... ok
+checking that skeleton constructors and stub factory reject null... ok
+checking that skeleton constructors and stub factory reject bad interfaces... ok
+checking skeleton listening... ok
+checking skeleton restart... ok
+checking that stubs can't be made from skeletons with no address... ok
+checking that skeleton calls service_error... ok
+checking that stubs attempt connections... ok
+checking stub equals method... ok
+checking stub hashCode method... ok
+checking stub toString method... ok
+checking that stubs are serializable... ok
+checking method overloading... ok
+checking method shadowing... ok
+checking remote interface inheritance... ok
+checking server subclassing... ok
+checking that only interface methods can be called remotely... ok
+checking skeleton multithreading... ok
+
+passed: 23       failed: 0       not run: 0
+checking basic remote method call... ok
+checking remote method argument passing... ok
+checking remote method return value... ok
+checking remote method exception forwarding... ok
+checking argument passing, return, and exceptions at once... ok
+checking method calls on stub created from a skeleton... ok
+checking that skeleton constructors and stub factory reject null... ok
+checking that skeleton constructors and stub factory reject bad interfaces... ok
+checking skeleton listening... ok
+checking skeleton restart... ok
+checking that stubs can't be made from skeletons with no address... ok
+checking that skeleton calls service_error... ok
+checking that stubs attempt connections... ok
+checking stub equals method... ok
+checking stub hashCode method... ok
+checking stub toString method... ok
+checking that stubs are serializable... ok
+checking method overloading... ok
+checking method shadowing... ok
+checking remote interface inheritance... ok
+checking server subclassing... ok
+checking that only interface methods can be called remotely... ok
+checking skeleton multithreading... ok
+
+passed: 23       failed: 0       not run: 0
+checking basic remote method call... ok
+checking remote method argument passing... ok
+checking remote method return value... ok
+checking remote method exception forwarding... ok
+checking argument passing, return, and exceptions at once... ok
+checking method calls on stub created from a skeleton... ok
+checking that skeleton constructors and stub factory reject null... ok
+checking that skeleton constructors and stub factory reject bad interfaces... ok
+checking skeleton listening... ok
+checking skeleton restart... ok
+checking that stubs can't be made from skeletons with no address... ok
+checking that skeleton calls service_error... ok
+checking that stubs attempt connections... ok
+checking stub equals method... ok
+checking stub hashCode method... ok
+checking stub toString method... ok
+checking that stubs are serializable... ok
+checking method overloading... ok
+checking method shadowing... ok
+checking remote interface inheritance... ok
+checking server subclassing... ok
+checking that only interface methods can be called remotely... ok
+checking skeleton multithreading... ok
+
+passed: 23       failed: 0       not run: 0
+checking basic remote method call... ok
+checking remote method argument passing... ok
+checking remote method return value... ok
+checking remote method exception forwarding... ok
+checking argument passing, return, and exceptions at once... ok
+checking method calls on stub created from a skeleton... ok
+checking that skeleton constructors and stub factory reject null... ok
+checking that skeleton constructors and stub factory reject bad interfaces... ok
+checking skeleton listening... ok
+checking skeleton restart... ok
+checking that stubs can't be made from skeletons with no address... ok
+checking that skeleton calls service_error... ok
+checking that stubs attempt connections... ok
+checking stub equals method... ok
+checking stub hashCode method... ok
+checking stub toString method... ok
+checking that stubs are serializable... ok
+checking method overloading... ok
+checking method shadowing... ok
+checking remote interface inheritance... ok
+checking server subclassing... ok
+checking that only interface methods can be called remotely... ok
+checking skeleton multithreading... ok
+
+passed: 23       failed: 0       not run: 0
+checking basic remote method call... ok
+checking remote method argument passing... ok
+checking remote method return value... ok
+checking remote method exception forwarding... ok
+checking argument passing, return, and exceptions at once... ok
+checking method calls on stub created from a skeleton... ok
+checking that skeleton constructors and stub factory reject null... ok
+checking that skeleton constructors and stub factory reject bad interfaces... ok
+checking skeleton listening... ok
+checking skeleton restart... ok
+checking that stubs can't be made from skeletons with no address... ok
+checking that skeleton calls service_error... ok
+checking that stubs attempt connections... ok
+checking stub equals method... ok
+checking stub hashCode method... ok
+checking stub toString method... ok
+checking that stubs are serializable... ok
+checking method overloading... ok
+checking method shadowing... ok
+checking remote interface inheritance... ok
+checking server subclassing... ok
+checking that only interface methods can be called remotely... ok
+checking skeleton multithreading... ok
+
+passed: 23       failed: 0       not run: 0
+checking basic remote method call... ok
+checking remote method argument passing... ok
+checking remote method return value... ok
+checking remote method exception forwarding... ok
+checking argument passing, return, and exceptions at once... ok
+checking method calls on stub created from a skeleton... ok
+checking that skeleton constructors and stub factory reject null... ok
+checking that skeleton constructors and stub factory reject bad interfaces... ok
+checking skeleton listening... ok
+checking skeleton restart... ok
+checking that stubs can't be made from skeletons with no address... ok
+checking that skeleton calls service_error... ok
+checking that stubs attempt connections... ok
+checking stub equals method... ok
+checking stub hashCode method... ok
+checking stub toString method... ok
+checking that stubs are serializable... ok
+checking method overloading... ok
+checking method shadowing... ok
+checking remote interface inheritance... ok
+checking server subclassing... ok
+checking that only interface methods can be called remotely... ok
+checking skeleton multithreading... ok
+
+passed: 23       failed: 0       not run: 0
+checking basic remote method call... ok
+checking remote method argument passing... ok
+checking remote method return value... ok
+checking remote method exception forwarding... ok
+checking argument passing, return, and exceptions at once... ok
+checking method calls on stub created from a skeleton... ok
+checking that skeleton constructors and stub factory reject null... ok
+checking that skeleton constructors and stub factory reject bad interfaces... ok
+checking skeleton listening... ok
+checking skeleton restart... ok
+checking that stubs can't be made from skeletons with no address... ok
+checking that skeleton calls service_error... ok
+checking that stubs attempt connections... ok
+checking stub equals method... ok
+checking stub hashCode method... ok
+checking stub toString method... ok
+checking that stubs are serializable... ok
+checking method overloading... ok
+checking method shadowing... ok
+checking remote interface inheritance... ok
+checking server subclassing... ok
+checking that only interface methods can be called remotely... ok
+checking skeleton multithreading... ok
+
+passed: 23       failed: 0       not run: 0
+checking basic remote method call... ok
+checking remote method argument passing... ok
+checking remote method return value... ok
+checking remote method exception forwarding... ok
+checking argument passing, return, and exceptions at once... ok
+checking method calls on stub created from a skeleton... ok
+checking that skeleton constructors and stub factory reject null... ok
+checking that skeleton constructors and stub factory reject bad interfaces... ok
+checking skeleton listening... ok
+checking skeleton restart... ok
+checking that stubs can't be made from skeletons with no address... ok
+checking that skeleton calls service_error... ok
+checking that stubs attempt connections... ok
+checking stub equals method... ok
+checking stub hashCode method... ok
+checking stub toString method... ok
+checking that stubs are serializable... ok
+checking method overloading... ok
+checking method shadowing... ok
+checking remote interface inheritance... ok
+checking server subclassing... ok
+checking that only interface methods can be called remotely... ok
+checking skeleton multithreading... ok
+
+passed: 23       failed: 0       not run: 0
+checking basic remote method call... ok
+checking remote method argument passing... ok
+checking remote method return value... ok
+checking remote method exception forwarding... ok
+checking argument passing, return, and exceptions at once... ok
+checking method calls on stub created from a skeleton... ok
+checking that skeleton constructors and stub factory reject null... ok
+checking that skeleton constructors and stub factory reject bad interfaces... ok
+checking skeleton listening... ok
+checking skeleton restart... ok
+checking that stubs can't be made from skeletons with no address... ok
+checking that skeleton calls service_error... ok
+checking that stubs attempt connections... ok
+checking stub equals method... ok
+checking stub hashCode method... ok
+checking stub toString method... ok
+checking that stubs are serializable... ok
+checking method overloading... ok
+checking method shadowing... ok
+checking remote interface inheritance... ok
+checking server subclassing... ok
+checking that only interface methods can be called remotely... ok
+checking skeleton multithreading... ok
+
+passed: 23       failed: 0       not run: 0
+checking basic remote method call... ok
+checking remote method argument passing... ok
+checking remote method return value... ok
+checking remote method exception forwarding... ok
+checking argument passing, return, and exceptions at once... ok
+checking method calls on stub created from a skeleton... ok
+checking that skeleton constructors and stub factory reject null... ok
+checking that skeleton constructors and stub factory reject bad interfaces... ok
+checking skeleton listening... ok
+checking skeleton restart... ok
+checking that stubs can't be made from skeletons with no address... ok
+checking that skeleton calls service_error... ok
+checking that stubs attempt connections... ok
+checking stub equals method... ok
+checking stub hashCode method... ok
+checking stub toString method... ok
+checking that stubs are serializable... ok
+checking method overloading... ok
+checking method shadowing... ok
+checking remote interface inheritance... ok
+checking server subclassing... ok
+checking that only interface methods can be called remotely... ok
+checking skeleton multithreading... ok
+
+passed: 23       failed: 0       not run: 0
+checking basic remote method call... ok
+checking remote method argument passing... ok
+checking remote method return value... ok
+checking remote method exception forwarding... ok
+checking argument passing, return, and exceptions at once... ok
+checking method calls on stub created from a skeleton... ok
+checking that skeleton constructors and stub factory reject null... ok
+checking that skeleton constructors and stub factory reject bad interfaces... ok
+checking skeleton listening... ok
+checking skeleton restart... ok
+checking that stubs can't be made from skeletons with no address... ok
+checking that skeleton calls service_error... ok
+checking that stubs attempt connections... ok
+checking stub equals method... ok
+checking stub hashCode method... ok
+checking stub toString method... ok
+checking that stubs are serializable... ok
+checking method overloading... ok
+checking method shadowing... ok
+checking remote interface inheritance... ok
+checking server subclassing... ok
+checking that only interface methods can be called remotely... ok
+checking skeleton multithreading... ok
+
+passed: 23       failed: 0       not run: 0
+checking basic remote method call... ok
+checking remote method argument passing... ok
+checking remote method return value... ok
+checking remote method exception forwarding... ok
+checking argument passing, return, and exceptions at once... ok
+checking method calls on stub created from a skeleton... ok
+checking that skeleton constructors and stub factory reject null... ok
+checking that skeleton constructors and stub factory reject bad interfaces... ok
+checking skeleton listening... ok
+checking skeleton restart... ok
+checking that stubs can't be made from skeletons with no address... ok
+checking that skeleton calls service_error... ok
+checking that stubs attempt connections... ok
+checking stub equals method... ok
+checking stub hashCode method... ok
+checking stub toString method... ok
+checking that stubs are serializable... ok
+checking method overloading... ok
+checking method shadowing... ok
+checking remote interface inheritance... ok
+checking server subclassing... ok
+checking that only interface methods can be called remotely... ok
+checking skeleton multithreading... ok
+
+passed: 23       failed: 0       not run: 0
+checking basic remote method call... ok
+checking remote method argument passing... ok
+checking remote method return value... ok
+checking remote method exception forwarding... ok
+checking argument passing, return, and exceptions at once... ok
+checking method calls on stub created from a skeleton... ok
+checking that skeleton constructors and stub factory reject null... ok
+checking that skeleton constructors and stub factory reject bad interfaces... ok
+checking skeleton listening... ok
+checking skeleton restart... ok
+checking that stubs can't be made from skeletons with no address... ok
+checking that skeleton calls service_error... ok
+checking that stubs attempt connections... ok
+checking stub equals method... ok
+checking stub hashCode method... ok
+checking stub toString method... ok
+checking that stubs are serializable... ok
+checking method overloading... ok
+checking method shadowing... ok
+checking remote interface inheritance... ok
+checking server subclassing... ok
+checking that only interface methods can be called remotely... ok
+checking skeleton multithreading... ok
+
+passed: 23       failed: 0       not run: 0
+checking basic remote method call... ok
+checking remote method argument passing... ok
+checking remote method return value... ok
+checking remote method exception forwarding... ok
+checking argument passing, return, and exceptions at once... ok
+checking method calls on stub created from a skeleton... ok
+checking that skeleton constructors and stub factory reject null... ok
+checking that skeleton constructors and stub factory reject bad interfaces... ok
+checking skeleton listening... ok
+checking skeleton restart... ok
+checking that stubs can't be made from skeletons with no address... ok
+checking that skeleton calls service_error... ok
+checking that stubs attempt connections... ok
+checking stub equals method... ok
+checking stub hashCode method... ok
+checking stub toString method... ok
+checking that stubs are serializable... ok
+checking method overloading... ok
+checking method shadowing... ok
+checking remote interface inheritance... ok
+checking server subclassing... ok
+checking that only interface methods can be called remotely... ok
+checking skeleton multithreading... ok
+
+passed: 23       failed: 0       not run: 0
+checking basic remote method call... ok
+checking remote method argument passing... ok
+checking remote method return value... ok
+checking remote method exception forwarding... ok
+checking argument passing, return, and exceptions at once... ok
+checking method calls on stub created from a skeleton... ok
+checking that skeleton constructors and stub factory reject null... ok
+checking that skeleton constructors and stub factory reject bad interfaces... ok
+checking skeleton listening... ok
+checking skeleton restart... ok
+checking that stubs can't be made from skeletons with no address... ok
+checking that skeleton calls service_error... ok
+checking that stubs attempt connections... ok
+checking stub equals method... ok
+checking stub hashCode method... ok
+checking stub toString method... ok
+checking that stubs are serializable... ok
+checking method overloading... ok
+checking method shadowing... ok
+checking remote interface inheritance... ok
+checking server subclassing... ok
+checking that only interface methods can be called remotely... ok
+checking skeleton multithreading... ok
+
+passed: 23       failed: 0       not run: 0
+checking basic remote method call... ok
+checking remote method argument passing... ok
+checking remote method return value... ok
+checking remote method exception forwarding... ok
+checking argument passing, return, and exceptions at once... ok
+checking method calls on stub created from a skeleton... ok
+checking that skeleton constructors and stub factory reject null... ok
+checking that skeleton constructors and stub factory reject bad interfaces... ok
+checking skeleton listening... ok
+checking skeleton restart... ok
+checking that stubs can't be made from skeletons with no address... ok
+checking that skeleton calls service_error... ok
+checking that stubs attempt connections... ok
+checking stub equals method... ok
+checking stub hashCode method... ok
+checking stub toString method... ok
+checking that stubs are serializable... ok
+checking method overloading... ok
+checking method shadowing... ok
+checking remote interface inheritance... ok
+checking server subclassing... ok
+checking that only interface methods can be called remotely... ok
+checking skeleton multithreading... ok
+
+passed: 23       failed: 0       not run: 0
+checking basic remote method call... ok
+checking remote method argument passing... ok
+checking remote method return value... ok
+checking remote method exception forwarding... ok
+checking argument passing, return, and exceptions at once... ok
+checking method calls on stub created from a skeleton... ok
+checking that skeleton constructors and stub factory reject null... ok
+checking that skeleton constructors and stub factory reject bad interfaces... ok
+checking skeleton listening... ok
+checking skeleton restart... ok
+checking that stubs can't be made from skeletons with no address... ok
+checking that skeleton calls service_error... ok
+checking that stubs attempt connections... ok
+checking stub equals method... ok
+checking stub hashCode method... ok
+checking stub toString method... ok
+checking that stubs are serializable... ok
+checking method overloading... ok
+checking method shadowing... ok
+checking remote interface inheritance... ok
+checking server subclassing... ok
+checking that only interface methods can be called remotely... ok
+checking skeleton multithreading... ok
+
+passed: 23       failed: 0       not run: 0
+checking basic remote method call... ok
+checking remote method argument passing... ok
+checking remote method return value... ok
+checking remote method exception forwarding... ok
+checking argument passing, return, and exceptions at once... ok
+checking method calls on stub created from a skeleton... ok
+checking that skeleton constructors and stub factory reject null... ok
+checking that skeleton constructors and stub factory reject bad interfaces... ok
+checking skeleton listening... ok
+checking skeleton restart... ok
+checking that stubs can't be made from skeletons with no address... ok
+checking that skeleton calls service_error... ok
+checking that stubs attempt connections... ok
+checking stub equals method... ok
+checking stub hashCode method... ok
+checking stub toString method... ok
+checking that stubs are serializable... ok
+checking method overloading... ok
+checking method shadowing... ok
+checking remote interface inheritance... ok
+checking server subclassing... ok
+checking that only interface methods can be called remotely... ok
+checking skeleton multithreading... ok
+
+passed: 23       failed: 0       not run: 0
+checking basic remote method call... ok
+checking remote method argument passing... ok
+checking remote method return value... ok
+checking remote method exception forwarding... ok
+checking argument passing, return, and exceptions at once... ok
+checking method calls on stub created from a skeleton... ok
+checking that skeleton constructors and stub factory reject null... ok
+checking that skeleton constructors and stub factory reject bad interfaces... ok
+checking skeleton listening... ok
+checking skeleton restart... ok
+checking that stubs can't be made from skeletons with no address... ok
+checking that skeleton calls service_error... ok
+checking that stubs attempt connections... ok
+checking stub equals method... ok
+checking stub hashCode method... ok
+checking stub toString method... ok
+checking that stubs are serializable... ok
+checking method overloading... ok
+checking method shadowing... ok
+checking remote interface inheritance... ok
+checking server subclassing... ok
+checking that only interface methods can be called remotely... ok
+checking skeleton multithreading... ok
+
+passed: 23       failed: 0       not run: 0
+checking basic remote method call... ok
+checking remote method argument passing... ok
+checking remote method return value... ok
+checking remote method exception forwarding... ok
+checking argument passing, return, and exceptions at once... ok
+checking method calls on stub created from a skeleton... ok
+checking that skeleton constructors and stub factory reject null... ok
+checking that skeleton constructors and stub factory reject bad interfaces... ok
+checking skeleton listening... ok
+checking skeleton restart... ok
+checking that stubs can't be made from skeletons with no address... ok
+checking that skeleton calls service_error... ok
+checking that stubs attempt connections... ok
+checking stub equals method... ok
+checking stub hashCode method... ok
+checking stub toString method... ok
+checking that stubs are serializable... ok
+checking method overloading... ok
+checking method shadowing... ok
+checking remote interface inheritance... ok
+checking server subclassing... ok
+checking that only interface methods can be called remotely... ok
+checking skeleton multithreading... ok
+
+passed: 23       failed: 0       not run: 0
+checking basic remote method call... ok
+checking remote method argument passing... ok
+checking remote method return value... ok
+checking remote method exception forwarding... ok
+checking argument passing, return, and exceptions at once... ok
+checking method calls on stub created from a skeleton... ok
+checking that skeleton constructors and stub factory reject null... ok
+checking that skeleton constructors and stub factory reject bad interfaces... ok
+checking skeleton listening... ok
+checking skeleton restart... ok
+checking that stubs can't be made from skeletons with no address... ok
+checking that skeleton calls service_error... ok
+checking that stubs attempt connections... ok
+checking stub equals method... ok
+checking stub hashCode method... ok
+checking stub toString method... ok
+checking that stubs are serializable... ok
+checking method overloading... ok
+checking method shadowing... ok
+checking remote interface inheritance... ok
+checking server subclassing... ok
+checking that only interface methods can be called remotely... ok
+checking skeleton multithreading... ok
+
+passed: 23       failed: 0       not run: 0
+checking basic remote method call... ok
+checking remote method argument passing... ok
+checking remote method return value... ok
+checking remote method exception forwarding... ok
+checking argument passing, return, and exceptions at once... ok
+checking method calls on stub created from a skeleton... ok
+checking that skeleton constructors and stub factory reject null... ok
+checking that skeleton constructors and stub factory reject bad interfaces... ok
+checking skeleton listening... ok
+checking skeleton restart... ok
+checking that stubs can't be made from skeletons with no address... ok
+checking that skeleton calls service_error... ok
+checking that stubs attempt connections... ok
+checking stub equals method... ok
+checking stub hashCode method... ok
+checking stub toString method... ok
+checking that stubs are serializable... ok
+checking method overloading... ok
+checking method shadowing... ok
+checking remote interface inheritance... ok
+checking server subclassing... ok
+checking that only interface methods can be called remotely... ok
+checking skeleton multithreading... ok
+
+passed: 23       failed: 0       not run: 0
+checking basic remote method call... ok
+checking remote method argument passing... ok
+checking remote method return value... ok
+checking remote method exception forwarding... ok
+checking argument passing, return, and exceptions at once... ok
+checking method calls on stub created from a skeleton... ok
+checking that skeleton constructors and stub factory reject null... ok
+checking that skeleton constructors and stub factory reject bad interfaces... ok
+checking skeleton listening... ok
+checking skeleton restart... ok
+checking that stubs can't be made from skeletons with no address... ok
+checking that skeleton calls service_error... ok
+checking that stubs attempt connections... ok
+checking stub equals method... ok
+checking stub hashCode method... ok
+checking stub toString method... ok
+checking that stubs are serializable... ok
+checking method overloading... ok
+checking method shadowing... ok
+checking remote interface inheritance... ok
+checking server subclassing... ok
+checking that only interface methods can be called remotely... ok
+checking skeleton multithreading... ok
+
+passed: 23       failed: 0       not run: 0
+checking basic remote method call... ok
+checking remote method argument passing... ok
+checking remote method return value... ok
+checking remote method exception forwarding... ok
+checking argument passing, return, and exceptions at once... ok
+checking method calls on stub created from a skeleton... ok
+checking that skeleton constructors and stub factory reject null... ok
+checking that skeleton constructors and stub factory reject bad interfaces... ok
+checking skeleton listening... ok
+checking skeleton restart... ok
+checking that stubs can't be made from skeletons with no address... ok
+checking that skeleton calls service_error... ok
+checking that stubs attempt connections... ok
+checking stub equals method... ok
+checking stub hashCode method... ok
+checking stub toString method... ok
+checking that stubs are serializable... ok
+checking method overloading... ok
+checking method shadowing... ok
+checking remote interface inheritance... ok
+checking server subclassing... ok
+checking that only interface methods can be called remotely... ok
+checking skeleton multithreading... ok
+
+passed: 23       failed: 0       not run: 0
+checking basic remote method call... ok
+checking remote method argument passing... ok
+checking remote method return value... ok
+checking remote method exception forwarding... ok
+checking argument passing, return, and exceptions at once... ok
+checking method calls on stub created from a skeleton... ok
+checking that skeleton constructors and stub factory reject null... ok
+checking that skeleton constructors and stub factory reject bad interfaces... ok
+checking skeleton listening... ok
+checking skeleton restart... ok
+checking that stubs can't be made from skeletons with no address... ok
+checking that skeleton calls service_error... ok
+checking that stubs attempt connections... ok
+checking stub equals method... ok
+checking stub hashCode method... ok
+checking stub toString method... ok
+checking that stubs are serializable... ok
+checking method overloading... ok
+checking method shadowing... ok
+checking remote interface inheritance... ok
+checking server subclassing... ok
+checking that only interface methods can be called remotely... ok
+checking skeleton multithreading... ok
+
+passed: 23       failed: 0       not run: 0
+checking basic remote method call... ok
+checking remote method argument passing... ok
+checking remote method return value... ok
+checking remote method exception forwarding... ok
+checking argument passing, return, and exceptions at once... ok
+checking method calls on stub created from a skeleton... ok
+checking that skeleton constructors and stub factory reject null... ok
+checking that skeleton constructors and stub factory reject bad interfaces... ok
+checking skeleton listening... ok
+checking skeleton restart... ok
+checking that stubs can't be made from skeletons with no address... ok
+checking that skeleton calls service_error... ok
+checking that stubs attempt connections... ok
+checking stub equals method... ok
+checking stub hashCode method... ok
+checking stub toString method... ok
+checking that stubs are serializable... ok
+checking method overloading... ok
+checking method shadowing... ok
+checking remote interface inheritance... ok
+checking server subclassing... ok
+checking that only interface methods can be called remotely... ok
+checking skeleton multithreading... ok
+
+passed: 23       failed: 0       not run: 0
+checking basic remote method call... ok
+checking remote method argument passing... ok
+checking remote method return value... ok
+checking remote method exception forwarding... ok
+checking argument passing, return, and exceptions at once... ok
+checking method calls on stub created from a skeleton... ok
+checking that skeleton constructors and stub factory reject null... ok
+checking that skeleton constructors and stub factory reject bad interfaces... ok
+checking skeleton listening... ok
+checking skeleton restart... ok
+checking that stubs can't be made from skeletons with no address... ok
+checking that skeleton calls service_error... ok
+checking that stubs attempt connections... ok
+checking stub equals method... ok
+checking stub hashCode method... ok
+checking stub toString method... ok
+checking that stubs are serializable... ok
+checking method overloading... ok
+checking method shadowing... ok
+checking remote interface inheritance... ok
+checking server subclassing... ok
+checking that only interface methods can be called remotely... ok
+checking skeleton multithreading... ok
+
+passed: 23       failed: 0       not run: 0
+checking basic remote method call... ok
+checking remote method argument passing... ok
+checking remote method return value... ok
+checking remote method exception forwarding... ok
+checking argument passing, return, and exceptions at once... ok
+checking method calls on stub created from a skeleton... ok
+checking that skeleton constructors and stub factory reject null... ok
+checking that skeleton constructors and stub factory reject bad interfaces... ok
+checking skeleton listening... ok
+checking skeleton restart... ok
+checking that stubs can't be made from skeletons with no address... ok
+checking that skeleton calls service_error... ok
+checking that stubs attempt connections... ok
+checking stub equals method... ok
+checking stub hashCode method... ok
+checking stub toString method... ok
+checking that stubs are serializable... ok
+checking method overloading... ok
+checking method shadowing... ok
+checking remote interface inheritance... ok
+checking server subclassing... ok
+checking that only interface methods can be called remotely... ok
+checking skeleton multithreading... ok
+
+passed: 23       failed: 0       not run: 0
+checking basic remote method call... ok
+checking remote method argument passing... ok
+checking remote method return value... ok
+checking remote method exception forwarding... ok
+checking argument passing, return, and exceptions at once... ok
+checking method calls on stub created from a skeleton... ok
+checking that skeleton constructors and stub factory reject null... ok
+checking that skeleton constructors and stub factory reject bad interfaces... ok
+checking skeleton listening... ok
+checking skeleton restart... ok
+checking that stubs can't be made from skeletons with no address... ok
+checking that skeleton calls service_error... ok
+checking that stubs attempt connections... ok
+checking stub equals method... ok
+checking stub hashCode method... ok
+checking stub toString method... ok
+checking that stubs are serializable... ok
+checking method overloading... ok
+checking method shadowing... ok
+checking remote interface inheritance... ok
+checking server subclassing... ok
+checking that only interface methods can be called remotely... ok
+checking skeleton multithreading... ok
+
+passed: 23       failed: 0       not run: 0
+checking basic remote method call... ok
+checking remote method argument passing... ok
+checking remote method return value... ok
+checking remote method exception forwarding... ok
+checking argument passing, return, and exceptions at once... ok
+checking method calls on stub created from a skeleton... ok
+checking that skeleton constructors and stub factory reject null... ok
+checking that skeleton constructors and stub factory reject bad interfaces... ok
+checking skeleton listening... ok
+checking skeleton restart... ok
+checking that stubs can't be made from skeletons with no address... ok
+checking that skeleton calls service_error... ok
+checking that stubs attempt connections... ok
+checking stub equals method... ok
+checking stub hashCode method... ok
+checking stub toString method... ok
+checking that stubs are serializable... ok
+checking method overloading... ok
+checking method shadowing... ok
+checking remote interface inheritance... ok
+checking server subclassing... ok
+checking that only interface methods can be called remotely... ok
+checking skeleton multithreading... ok
+
+passed: 23       failed: 0       not run: 0
+checking basic remote method call... ok
+checking remote method argument passing... ok
+checking remote method return value... ok
+checking remote method exception forwarding... ok
+checking argument passing, return, and exceptions at once... ok
+checking method calls on stub created from a skeleton... ok
+checking that skeleton constructors and stub factory reject null... ok
+checking that skeleton constructors and stub factory reject bad interfaces... ok
+checking skeleton listening... ok
+checking skeleton restart... ok
+checking that stubs can't be made from skeletons with no address... ok
+checking that skeleton calls service_error... ok
+checking that stubs attempt connections... ok
+checking stub equals method... ok
+checking stub hashCode method... ok
+checking stub toString method... ok
+checking that stubs are serializable... ok
+checking method overloading... ok
+checking method shadowing... ok
+checking remote interface inheritance... ok
+checking server subclassing... ok
+checking that only interface methods can be called remotely... ok
+checking skeleton multithreading... ok
+
+passed: 23       failed: 0       not run: 0
+checking basic remote method call... ok
+checking remote method argument passing... ok
+checking remote method return value... ok
+checking remote method exception forwarding... ok
+checking argument passing, return, and exceptions at once... ok
+checking method calls on stub created from a skeleton... ok
+checking that skeleton constructors and stub factory reject null... ok
+checking that skeleton constructors and stub factory reject bad interfaces... ok
+checking skeleton listening... ok
+checking skeleton restart... ok
+checking that stubs can't be made from skeletons with no address... ok
+checking that skeleton calls service_error... ok
+checking that stubs attempt connections... ok
+checking stub equals method... ok
+checking stub hashCode method... ok
+checking stub toString method... ok
+checking that stubs are serializable... ok
+checking method overloading... ok
+checking method shadowing... ok
+checking remote interface inheritance... ok
+checking server subclassing... ok
+checking that only interface methods can be called remotely... ok
+checking skeleton multithreading... ok
+
+passed: 23       failed: 0       not run: 0
+checking basic remote method call... ok
+checking remote method argument passing... ok
+checking remote method return value... ok
+checking remote method exception forwarding... ok
+checking argument passing, return, and exceptions at once... ok
+checking method calls on stub created from a skeleton... ok
+checking that skeleton constructors and stub factory reject null... ok
+checking that skeleton constructors and stub factory reject bad interfaces... ok
+checking skeleton listening... ok
+checking skeleton restart... ok
+checking that stubs can't be made from skeletons with no address... ok
+checking that skeleton calls service_error... ok
+checking that stubs attempt connections... ok
+checking stub equals method... ok
+checking stub hashCode method... ok
+checking stub toString method... ok
+checking that stubs are serializable... ok
+checking method overloading... ok
+checking method shadowing... ok
+checking remote interface inheritance... ok
+checking server subclassing... ok
+checking that only interface methods can be called remotely... ok
+checking skeleton multithreading... ok
+
+passed: 23       failed: 0       not run: 0
+checking basic remote method call... ok
+checking remote method argument passing... ok
+checking remote method return value... ok
+checking remote method exception forwarding... ok
+checking argument passing, return, and exceptions at once... ok
+checking method calls on stub created from a skeleton... ok
+checking that skeleton constructors and stub factory reject null... ok
+checking that skeleton constructors and stub factory reject bad interfaces... ok
+checking skeleton listening... ok
+checking skeleton restart... ok
+checking that stubs can't be made from skeletons with no address... ok
+checking that skeleton calls service_error... ok
+checking that stubs attempt connections... ok
+checking stub equals method... ok
+checking stub hashCode method... ok
+checking stub toString method... ok
+checking that stubs are serializable... ok
+checking method overloading... ok
+checking method shadowing... ok
+checking remote interface inheritance... ok
+checking server subclassing... ok
+checking that only interface methods can be called remotely... ok
+checking skeleton multithreading... ok
+
+passed: 23       failed: 0       not run: 0
+checking basic remote method call... ok
+checking remote method argument passing... ok
+checking remote method return value... ok
+checking remote method exception forwarding... ok
+checking argument passing, return, and exceptions at once... ok
+checking method calls on stub created from a skeleton... ok
+checking that skeleton constructors and stub factory reject null... ok
+checking that skeleton constructors and stub factory reject bad interfaces... ok
+checking skeleton listening... ok
+checking skeleton restart... ok
+checking that stubs can't be made from skeletons with no address... ok
+checking that skeleton calls service_error... ok
+checking that stubs attempt connections... ok
+checking stub equals method... ok
+checking stub hashCode method... ok
+checking stub toString method... ok
+checking that stubs are serializable... ok
+checking method overloading... ok
+checking method shadowing... ok
+checking remote interface inheritance... ok
+checking server subclassing... ok
+checking that only interface methods can be called remotely... ok
+checking skeleton multithreading... ok
+
+passed: 23       failed: 0       not run: 0
+checking basic remote method call... ok
+checking remote method argument passing... ok
+checking remote method return value... ok
+checking remote method exception forwarding... ok
+checking argument passing, return, and exceptions at once... ok
+checking method calls on stub created from a skeleton... ok
+checking that skeleton constructors and stub factory reject null... ok
+checking that skeleton constructors and stub factory reject bad interfaces... ok
+checking skeleton listening... ok
+checking skeleton restart... ok
+checking that stubs can't be made from skeletons with no address... ok
+checking that skeleton calls service_error... ok
+checking that stubs attempt connections... ok
+checking stub equals method... ok
+checking stub hashCode method... ok
+checking stub toString method... ok
+checking that stubs are serializable... ok
+checking method overloading... ok
+checking method shadowing... ok
+checking remote interface inheritance... ok
+checking server subclassing... ok
+checking that only interface methods can be called remotely... ok
+checking skeleton multithreading... ok
+
+passed: 23       failed: 0       not run: 0
+checking basic remote method call... ok
+checking remote method argument passing... ok
+checking remote method return value... ok
+checking remote method exception forwarding... ok
+checking argument passing, return, and exceptions at once... ok
+checking method calls on stub created from a skeleton... ok
+checking that skeleton constructors and stub factory reject null... ok
+checking that skeleton constructors and stub factory reject bad interfaces... ok
+checking skeleton listening... ok
+checking skeleton restart... ok
+checking that stubs can't be made from skeletons with no address... ok
+checking that skeleton calls service_error... ok
+checking that stubs attempt connections... ok
+checking stub equals method... ok
+checking stub hashCode method... ok
+checking stub toString method... ok
+checking that stubs are serializable... ok
+checking method overloading... ok
+checking method shadowing... ok
+checking remote interface inheritance... ok
+checking server subclassing... ok
+checking that only interface methods can be called remotely... ok
+checking skeleton multithreading... ok
+
+passed: 23       failed: 0       not run: 0
+checking basic remote method call... ok
+checking remote method argument passing... ok
+checking remote method return value... ok
+checking remote method exception forwarding... ok
+checking argument passing, return, and exceptions at once... ok
+checking method calls on stub created from a skeleton... ok
+checking that skeleton constructors and stub factory reject null... ok
+checking that skeleton constructors and stub factory reject bad interfaces... ok
+checking skeleton listening... ok
+checking skeleton restart... ok
+checking that stubs can't be made from skeletons with no address... ok
+checking that skeleton calls service_error... ok
+checking that stubs attempt connections... ok
+checking stub equals method... ok
+checking stub hashCode method... ok
+checking stub toString method... ok
+checking that stubs are serializable... ok
+checking method overloading... ok
+checking method shadowing... ok
+checking remote interface inheritance... ok
+checking server subclassing... ok
+checking that only interface methods can be called remotely... ok
+checking skeleton multithreading... ok
+
+passed: 23       failed: 0       not run: 0
+checking basic remote method call... ok
+checking remote method argument passing... ok
+checking remote method return value... ok
+checking remote method exception forwarding... ok
+checking argument passing, return, and exceptions at once... ok
+checking method calls on stub created from a skeleton... ok
+checking that skeleton constructors and stub factory reject null... ok
+checking that skeleton constructors and stub factory reject bad interfaces... ok
+checking skeleton listening... ok
+checking skeleton restart... ok
+checking that stubs can't be made from skeletons with no address... ok
+checking that skeleton calls service_error... ok
+checking that stubs attempt connections... ok
+checking stub equals method... ok
+checking stub hashCode method... ok
+checking stub toString method... ok
+checking that stubs are serializable... ok
+checking method overloading... ok
+checking method shadowing... ok
+checking remote interface inheritance... ok
+checking server subclassing... ok
+checking that only interface methods can be called remotely... ok
+checking skeleton multithreading... ok
+
+passed: 23       failed: 0       not run: 0
+checking basic remote method call... ok
+checking remote method argument passing... ok
+checking remote method return value... ok
+checking remote method exception forwarding... ok
+checking argument passing, return, and exceptions at once... ok
+checking method calls on stub created from a skeleton... ok
+checking that skeleton constructors and stub factory reject null... ok
+checking that skeleton constructors and stub factory reject bad interfaces... ok
+checking skeleton listening... ok
+checking skeleton restart... ok
+checking that stubs can't be made from skeletons with no address... ok
+checking that skeleton calls service_error... ok
+checking that stubs attempt connections... ok
+checking stub equals method... ok
+checking stub hashCode method... ok
+checking stub toString method... ok
+checking that stubs are serializable... ok
+checking method overloading... ok
+checking method shadowing... ok
+checking remote interface inheritance... ok
+checking server subclassing... ok
+checking that only interface methods can be called remotely... ok
+checking skeleton multithreading... ok
+
+passed: 23       failed: 0       not run: 0
+checking basic remote method call... ok
+checking remote method argument passing... ok
+checking remote method return value... ok
+checking remote method exception forwarding... ok
+checking argument passing, return, and exceptions at once... ok
+checking method calls on stub created from a skeleton... ok
+checking that skeleton constructors and stub factory reject null... ok
+checking that skeleton constructors and stub factory reject bad interfaces... ok
+checking skeleton listening... ok
+checking skeleton restart... ok
+checking that stubs can't be made from skeletons with no address... ok
+checking that skeleton calls service_error... ok
+checking that stubs attempt connections... ok
+checking stub equals method... ok
+checking stub hashCode method... ok
+checking stub toString method... ok
+checking that stubs are serializable... ok
+checking method overloading... ok
+checking method shadowing... ok
+checking remote interface inheritance... ok
+checking server subclassing... ok
+checking that only interface methods can be called remotely... ok
+checking skeleton multithreading... ok
+
+passed: 23       failed: 0       not run: 0
+checking basic remote method call... ok
+checking remote method argument passing... ok
+checking remote method return value... ok
+checking remote method exception forwarding... ok
+checking argument passing, return, and exceptions at once... ok
+checking method calls on stub created from a skeleton... ok
+checking that skeleton constructors and stub factory reject null... ok
+checking that skeleton constructors and stub factory reject bad interfaces... ok
+checking skeleton listening... ok
+checking skeleton restart... ok
+checking that stubs can't be made from skeletons with no address... ok
+checking that skeleton calls service_error... ok
+checking that stubs attempt connections... ok
+checking stub equals method... ok
+checking stub hashCode method... ok
+checking stub toString method... ok
+checking that stubs are serializable... ok
+checking method overloading... ok
+checking method shadowing... ok
+checking remote interface inheritance... ok
+checking server subclassing... ok
+checking that only interface methods can be called remotely... ok
+checking skeleton multithreading... ok
+
+passed: 23       failed: 0       not run: 0
+checking basic remote method call... ok
+checking remote method argument passing... ok
+checking remote method return value... ok
+checking remote method exception forwarding... ok
+checking argument passing, return, and exceptions at once... ok
+checking method calls on stub created from a skeleton... ok
+checking that skeleton constructors and stub factory reject null... ok
+checking that skeleton constructors and stub factory reject bad interfaces... ok
+checking skeleton listening... ok
+checking skeleton restart... ok
+checking that stubs can't be made from skeletons with no address... ok
+checking that skeleton calls service_error... ok
+checking that stubs attempt connections... ok
+checking stub equals method... ok
+checking stub hashCode method... ok
+checking stub toString method... ok
+checking that stubs are serializable... ok
+checking method overloading... ok
+checking method shadowing... ok
+checking remote interface inheritance... ok
+checking server subclassing... ok
+checking that only interface methods can be called remotely... ok
+checking skeleton multithreading... ok
+
+passed: 23       failed: 0       not run: 0
+checking basic remote method call... ok
+checking remote method argument passing... ok
+checking remote method return value... ok
+checking remote method exception forwarding... ok
+checking argument passing, return, and exceptions at once... ok
+checking method calls on stub created from a skeleton... ok
+checking that skeleton constructors and stub factory reject null... ok
+checking that skeleton constructors and stub factory reject bad interfaces... ok
+checking skeleton listening... ok
+checking skeleton restart... ok
+checking that stubs can't be made from skeletons with no address... ok
+checking that skeleton calls service_error... ok
+checking that stubs attempt connections... ok
+checking stub equals method... ok
+checking stub hashCode method... ok
+checking stub toString method... ok
+checking that stubs are serializable... ok
+checking method overloading... ok
+checking method shadowing... ok
+checking remote interface inheritance... ok
+checking server subclassing... ok
+checking that only interface methods can be called remotely... ok
+checking skeleton multithreading... ok
+
+passed: 23       failed: 0       not run: 0
+checking basic remote method call... ok
+checking remote method argument passing... ok
+checking remote method return value... ok
+checking remote method exception forwarding... ok
+checking argument passing, return, and exceptions at once... ok
+checking method calls on stub created from a skeleton... ok
+checking that skeleton constructors and stub factory reject null... ok
+checking that skeleton constructors and stub factory reject bad interfaces... ok
+checking skeleton listening... ok
+checking skeleton restart... ok
+checking that stubs can't be made from skeletons with no address... ok
+checking that skeleton calls service_error... ok
+checking that stubs attempt connections... ok
+checking stub equals method... ok
+checking stub hashCode method... ok
+checking stub toString method... ok
+checking that stubs are serializable... ok
+checking method overloading... ok
+checking method shadowing... ok
+checking remote interface inheritance... ok
+checking server subclassing... ok
+checking that only interface methods can be called remotely... ok
+checking skeleton multithreading... ok
+
+passed: 23       failed: 0       not run: 0
+checking basic remote method call... ok
+checking remote method argument passing... ok
+checking remote method return value... ok
+checking remote method exception forwarding... ok
+checking argument passing, return, and exceptions at once... ok
+checking method calls on stub created from a skeleton... ok
+checking that skeleton constructors and stub factory reject null... ok
+checking that skeleton constructors and stub factory reject bad interfaces... ok
+checking skeleton listening... ok
+checking skeleton restart... ok
+checking that stubs can't be made from skeletons with no address... ok
+checking that skeleton calls service_error... ok
+checking that stubs attempt connections... ok
+checking stub equals method... ok
+checking stub hashCode method... ok
+checking stub toString method... ok
+checking that stubs are serializable... ok
+checking method overloading... ok
+checking method shadowing... ok
+checking remote interface inheritance... ok
+checking server subclassing... ok
+checking that only interface methods can be called remotely... ok
+checking skeleton multithreading... ok
+
+passed: 23       failed: 0       not run: 0
+checking basic remote method call... ok
+checking remote method argument passing... ok
+checking remote method return value... ok
+checking remote method exception forwarding... ok
+checking argument passing, return, and exceptions at once... ok
+checking method calls on stub created from a skeleton... ok
+checking that skeleton constructors and stub factory reject null... ok
+checking that skeleton constructors and stub factory reject bad interfaces... ok
+checking skeleton listening... ok
+checking skeleton restart... ok
+checking that stubs can't be made from skeletons with no address... ok
+checking that skeleton calls service_error... ok
+checking that stubs attempt connections... ok
+checking stub equals method... ok
+checking stub hashCode method... ok
+checking stub toString method... ok
+checking that stubs are serializable... ok
+checking method overloading... ok
+checking method shadowing... ok
+checking remote interface inheritance... ok
+checking server subclassing... ok
+checking that only interface methods can be called remotely... ok
+checking skeleton multithreading... ok
+
+passed: 23       failed: 0       not run: 0
+checking basic remote method call... ok
+checking remote method argument passing... ok
+checking remote method return value... ok
+checking remote method exception forwarding... ok
+checking argument passing, return, and exceptions at once... ok
+checking method calls on stub created from a skeleton... ok
+checking that skeleton constructors and stub factory reject null... ok
+checking that skeleton constructors and stub factory reject bad interfaces... ok
+checking skeleton listening... ok
+checking skeleton restart... ok
+checking that stubs can't be made from skeletons with no address... ok
+checking that skeleton calls service_error... ok
+checking that stubs attempt connections... ok
+checking stub equals method... ok
+checking stub hashCode method... ok
+checking stub toString method... ok
+checking that stubs are serializable... ok
+checking method overloading... ok
+checking method shadowing... ok
+checking remote interface inheritance... ok
+checking server subclassing... ok
+checking that only interface methods can be called remotely... ok
+checking skeleton multithreading... ok
+
+passed: 23       failed: 0       not run: 0
+checking basic remote method call... ok
+checking remote method argument passing... ok
+checking remote method return value... ok
+checking remote method exception forwarding... ok
+checking argument passing, return, and exceptions at once... ok
+checking method calls on stub created from a skeleton... ok
+checking that skeleton constructors and stub factory reject null... ok
+checking that skeleton constructors and stub factory reject bad interfaces... ok
+checking skeleton listening... ok
+checking skeleton restart... ok
+checking that stubs can't be made from skeletons with no address... ok
+checking that skeleton calls service_error... ok
+checking that stubs attempt connections... ok
+checking stub equals method... ok
+checking stub hashCode method... ok
+checking stub toString method... ok
+checking that stubs are serializable... ok
+checking method overloading... ok
+checking method shadowing... ok
+checking remote interface inheritance... ok
+checking server subclassing... ok
+checking that only interface methods can be called remotely... ok
+checking skeleton multithreading... ok
+
+passed: 23       failed: 0       not run: 0
+checking basic remote method call... ok
+checking remote method argument passing... ok
+checking remote method return value... ok
+checking remote method exception forwarding... ok
+checking argument passing, return, and exceptions at once... ok
+checking method calls on stub created from a skeleton... ok
+checking that skeleton constructors and stub factory reject null... ok
+checking that skeleton constructors and stub factory reject bad interfaces... ok
+checking skeleton listening... ok
+checking skeleton restart... ok
+checking that stubs can't be made from skeletons with no address... ok
+checking that skeleton calls service_error... ok
+checking that stubs attempt connections... ok
+checking stub equals method... ok
+checking stub hashCode method... ok
+checking stub toString method... ok
+checking that stubs are serializable... ok
+checking method overloading... ok
+checking method shadowing... ok
+checking remote interface inheritance... ok
+checking server subclassing... ok
+checking that only interface methods can be called remotely... ok
+checking skeleton multithreading... ok
+
+passed: 23       failed: 0       not run: 0
+checking basic remote method call... ok
+checking remote method argument passing... ok
+checking remote method return value... ok
+checking remote method exception forwarding... ok
+checking argument passing, return, and exceptions at once... ok
+checking method calls on stub created from a skeleton... ok
+checking that skeleton constructors and stub factory reject null... ok
+checking that skeleton constructors and stub factory reject bad interfaces... ok
+checking skeleton listening... ok
+checking skeleton restart... ok
+checking that stubs can't be made from skeletons with no address... ok
+checking that skeleton calls service_error... ok
+checking that stubs attempt connections... ok
+checking stub equals method... ok
+checking stub hashCode method... ok
+checking stub toString method... ok
+checking that stubs are serializable... ok
+checking method overloading... ok
+checking method shadowing... ok
+checking remote interface inheritance... ok
+checking server subclassing... ok
+checking that only interface methods can be called remotely... ok
+checking skeleton multithreading... ok
+
+passed: 23       failed: 0       not run: 0
+checking basic remote method call... ok
+checking remote method argument passing... ok
+checking remote method return value... ok
+checking remote method exception forwarding... ok
+checking argument passing, return, and exceptions at once... ok
+checking method calls on stub created from a skeleton... ok
+checking that skeleton constructors and stub factory reject null... ok
+checking that skeleton constructors and stub factory reject bad interfaces... ok
+checking skeleton listening... ok
+checking skeleton restart... ok
+checking that stubs can't be made from skeletons with no address... ok
+checking that skeleton calls service_error... ok
+checking that stubs attempt connections... ok
+checking stub equals method... ok
+checking stub hashCode method... ok
+checking stub toString method... ok
+checking that stubs are serializable... ok
+checking method overloading... ok
+checking method shadowing... ok
+checking remote interface inheritance... ok
+checking server subclassing... ok
+checking that only interface methods can be called remotely... ok
+checking skeleton multithreading... ok
+
+passed: 23       failed: 0       not run: 0
+checking basic remote method call... ok
+checking remote method argument passing... ok
+checking remote method return value... ok
+checking remote method exception forwarding... ok
+checking argument passing, return, and exceptions at once... ok
+checking method calls on stub created from a skeleton... ok
+checking that skeleton constructors and stub factory reject null... ok
+checking that skeleton constructors and stub factory reject bad interfaces... ok
+checking skeleton listening... ok
+checking skeleton restart... ok
+checking that stubs can't be made from skeletons with no address... ok
+checking that skeleton calls service_error... ok
+checking that stubs attempt connections... ok
+checking stub equals method... ok
+checking stub hashCode method... ok
+checking stub toString method... ok
+checking that stubs are serializable... ok
+checking method overloading... ok
+checking method shadowing... ok
+checking remote interface inheritance... ok
+checking server subclassing... ok
+checking that only interface methods can be called remotely... ok
+checking skeleton multithreading... ok
+
+passed: 23       failed: 0       not run: 0
+checking basic remote method call... ok
+checking remote method argument passing... ok
+checking remote method return value... ok
+checking remote method exception forwarding... ok
+checking argument passing, return, and exceptions at once... ok
+checking method calls on stub created from a skeleton... ok
+checking that skeleton constructors and stub factory reject null... ok
+checking that skeleton constructors and stub factory reject bad interfaces... ok
+checking skeleton listening... ok
+checking skeleton restart... ok
+checking that stubs can't be made from skeletons with no address... ok
+checking that skeleton calls service_error... ok
+checking that stubs attempt connections... ok
+checking stub equals method... ok
+checking stub hashCode method... ok
+checking stub toString method... ok
+checking that stubs are serializable... ok
+checking method overloading... ok
+checking method shadowing... ok
+checking remote interface inheritance... ok
+checking server subclassing... ok
+checking that only interface methods can be called remotely... ok
+checking skeleton multithreading... ok
+
+passed: 23       failed: 0       not run: 0
+checking basic remote method call... ok
+checking remote method argument passing... ok
+checking remote method return value... ok
+checking remote method exception forwarding... ok
+checking argument passing, return, and exceptions at once... ok
+checking method calls on stub created from a skeleton... ok
+checking that skeleton constructors and stub factory reject null... ok
+checking that skeleton constructors and stub factory reject bad interfaces... ok
+checking skeleton listening... ok
+checking skeleton restart... ok
+checking that stubs can't be made from skeletons with no address... ok
+checking that skeleton calls service_error... ok
+checking that stubs attempt connections... ok
+checking stub equals method... ok
+checking stub hashCode method... ok
+checking stub toString method... ok
+checking that stubs are serializable... ok
+checking method overloading... ok
+checking method shadowing... ok
+checking remote interface inheritance... ok
+checking server subclassing... ok
+checking that only interface methods can be called remotely... ok
+checking skeleton multithreading... ok
+
+passed: 23       failed: 0       not run: 0
+checking basic remote method call... ok
+checking remote method argument passing... ok
+checking remote method return value... ok
+checking remote method exception forwarding... ok
+checking argument passing, return, and exceptions at once... ok
+checking method calls on stub created from a skeleton... ok
+checking that skeleton constructors and stub factory reject null... ok
+checking that skeleton constructors and stub factory reject bad interfaces... ok
+checking skeleton listening... ok
+checking skeleton restart... ok
+checking that stubs can't be made from skeletons with no address... ok
+checking that skeleton calls service_error... ok
+checking that stubs attempt connections... ok
+checking stub equals method... ok
+checking stub hashCode method... ok
+checking stub toString method... ok
+checking that stubs are serializable... ok
+checking method overloading... ok
+checking method shadowing... ok
+checking remote interface inheritance... ok
+checking server subclassing... ok
+checking that only interface methods can be called remotely... ok
+checking skeleton multithreading... ok
+
+passed: 23       failed: 0       not run: 0
+checking basic remote method call... ok
+checking remote method argument passing... ok
+checking remote method return value... ok
+checking remote method exception forwarding... ok
+checking argument passing, return, and exceptions at once... ok
+checking method calls on stub created from a skeleton... ok
+checking that skeleton constructors and stub factory reject null... ok
+checking that skeleton constructors and stub factory reject bad interfaces... ok
+checking skeleton listening... ok
+checking skeleton restart... ok
+checking that stubs can't be made from skeletons with no address... ok
+checking that skeleton calls service_error... ok
+checking that stubs attempt connections... ok
+checking stub equals method... ok
+checking stub hashCode method... ok
+checking stub toString method... ok
+checking that stubs are serializable... ok
+checking method overloading... ok
+checking method shadowing... ok
+checking remote interface inheritance... ok
+checking server subclassing... ok
+checking that only interface methods can be called remotely... ok
+checking skeleton multithreading... ok
+
+passed: 23       failed: 0       not run: 0
+checking basic remote method call... ok
+checking remote method argument passing... ok
+checking remote method return value... ok
+checking remote method exception forwarding... ok
+checking argument passing, return, and exceptions at once... ok
+checking method calls on stub created from a skeleton... ok
+checking that skeleton constructors and stub factory reject null... ok
+checking that skeleton constructors and stub factory reject bad interfaces... ok
+checking skeleton listening... ok
+checking skeleton restart... ok
+checking that stubs can't be made from skeletons with no address... ok
+checking that skeleton calls service_error... ok
+checking that stubs attempt connections... ok
+checking stub equals method... ok
+checking stub hashCode method... ok
+checking stub toString method... ok
+checking that stubs are serializable... ok
+checking method overloading... ok
+checking method shadowing... ok
+checking remote interface inheritance... ok
+checking server subclassing... ok
+checking that only interface methods can be called remotely... ok
+checking skeleton multithreading... ok
+
+passed: 23       failed: 0       not run: 0
+checking basic remote method call... ok
+checking remote method argument passing... ok
+checking remote method return value... ok
+checking remote method exception forwarding... ok
+checking argument passing, return, and exceptions at once... ok
+checking method calls on stub created from a skeleton... ok
+checking that skeleton constructors and stub factory reject null... ok
+checking that skeleton constructors and stub factory reject bad interfaces... ok
+checking skeleton listening... ok
+checking skeleton restart... ok
+checking that stubs can't be made from skeletons with no address... ok
+checking that skeleton calls service_error... ok
+checking that stubs attempt connections... ok
+checking stub equals method... ok
+checking stub hashCode method... ok
+checking stub toString method... ok
+checking that stubs are serializable... ok
+checking method overloading... ok
+checking method shadowing... ok
+checking remote interface inheritance... ok
+checking server subclassing... ok
+checking that only interface methods can be called remotely... ok
+checking skeleton multithreading... ok
+
+passed: 23       failed: 0       not run: 0
+checking basic remote method call... ok
+checking remote method argument passing... ok
+checking remote method return value... ok
+checking remote method exception forwarding... ok
+checking argument passing, return, and exceptions at once... ok
+checking method calls on stub created from a skeleton... ok
+checking that skeleton constructors and stub factory reject null... ok
+checking that skeleton constructors and stub factory reject bad interfaces... ok
+checking skeleton listening... ok
+checking skeleton restart... ok
+checking that stubs can't be made from skeletons with no address... ok
+checking that skeleton calls service_error... ok
+checking that stubs attempt connections... ok
+checking stub equals method... ok
+checking stub hashCode method... ok
+checking stub toString method... ok
+checking that stubs are serializable... ok
+checking method overloading... ok
+checking method shadowing... ok
+checking remote interface inheritance... ok
+checking server subclassing... ok
+checking that only interface methods can be called remotely... ok
+checking skeleton multithreading... ok
+
+passed: 23       failed: 0       not run: 0
+checking basic remote method call... ok
+checking remote method argument passing... ok
+checking remote method return value... ok
+checking remote method exception forwarding... ok
+checking argument passing, return, and exceptions at once... ok
+checking method calls on stub created from a skeleton... ok
+checking that skeleton constructors and stub factory reject null... ok
+checking that skeleton constructors and stub factory reject bad interfaces... ok
+checking skeleton listening... ok
+checking skeleton restart... ok
+checking that stubs can't be made from skeletons with no address... ok
+checking that skeleton calls service_error... ok
+checking that stubs attempt connections... ok
+checking stub equals method... ok
+checking stub hashCode method... ok
+checking stub toString method... ok
+checking that stubs are serializable... ok
+checking method overloading... ok
+checking method shadowing... ok
+checking remote interface inheritance... ok
+checking server subclassing... ok
+checking that only interface methods can be called remotely... ok
+checking skeleton multithreading... ok
+
+passed: 23       failed: 0       not run: 0
+checking basic remote method call... ok
+checking remote method argument passing... ok
+checking remote method return value... ok
+checking remote method exception forwarding... ok
+checking argument passing, return, and exceptions at once... ok
+checking method calls on stub created from a skeleton... ok
+checking that skeleton constructors and stub factory reject null... ok
+checking that skeleton constructors and stub factory reject bad interfaces... ok
+checking skeleton listening... ok
+checking skeleton restart... ok
+checking that stubs can't be made from skeletons with no address... ok
+checking that skeleton calls service_error... ok
+checking that stubs attempt connections... ok
+checking stub equals method... ok
+checking stub hashCode method... ok
+checking stub toString method... ok
+checking that stubs are serializable... ok
+checking method overloading... ok
+checking method shadowing... ok
+checking remote interface inheritance... ok
+checking server subclassing... ok
+checking that only interface methods can be called remotely... ok
+checking skeleton multithreading... ok
+
+passed: 23       failed: 0       not run: 0
+checking basic remote method call... ok
+checking remote method argument passing... ok
+checking remote method return value... ok
+checking remote method exception forwarding... ok
+checking argument passing, return, and exceptions at once... ok
+checking method calls on stub created from a skeleton... ok
+checking that skeleton constructors and stub factory reject null... ok
+checking that skeleton constructors and stub factory reject bad interfaces... ok
+checking skeleton listening... ok
+checking skeleton restart... ok
+checking that stubs can't be made from skeletons with no address... ok
+checking that skeleton calls service_error... ok
+checking that stubs attempt connections... ok
+checking stub equals method... ok
+checking stub hashCode method... ok
+checking stub toString method... ok
+checking that stubs are serializable... ok
+checking method overloading... ok
+checking method shadowing... ok
+checking remote interface inheritance... ok
+checking server subclassing... ok
+checking that only interface methods can be called remotely... ok
+checking skeleton multithreading... ok
+
+passed: 23       failed: 0       not run: 0
+checking basic remote method call... ok
+checking remote method argument passing... ok
+checking remote method return value... ok
+checking remote method exception forwarding... ok
+checking argument passing, return, and exceptions at once... ok
+checking method calls on stub created from a skeleton... ok
+checking that skeleton constructors and stub factory reject null... ok
+checking that skeleton constructors and stub factory reject bad interfaces... ok
+checking skeleton listening... ok
+checking skeleton restart... ok
+checking that stubs can't be made from skeletons with no address... ok
+checking that skeleton calls service_error... ok
+checking that stubs attempt connections... ok
+checking stub equals method... ok
+checking stub hashCode method... ok
+checking stub toString method... ok
+checking that stubs are serializable... ok
+checking method overloading... ok
+checking method shadowing... ok
+checking remote interface inheritance... ok
+checking server subclassing... ok
+checking that only interface methods can be called remotely... ok
+checking skeleton multithreading... ok
+
+passed: 23       failed: 0       not run: 0
+checking basic remote method call... ok
+checking remote method argument passing... ok
+checking remote method return value... ok
+checking remote method exception forwarding... ok
+checking argument passing, return, and exceptions at once... ok
+checking method calls on stub created from a skeleton... ok
+checking that skeleton constructors and stub factory reject null... ok
+checking that skeleton constructors and stub factory reject bad interfaces... ok
+checking skeleton listening... ok
+checking skeleton restart... ok
+checking that stubs can't be made from skeletons with no address... ok
+checking that skeleton calls service_error... ok
+checking that stubs attempt connections... ok
+checking stub equals method... ok
+checking stub hashCode method... ok
+checking stub toString method... ok
+checking that stubs are serializable... ok
+checking method overloading... ok
+checking method shadowing... ok
+checking remote interface inheritance... ok
+checking server subclassing... ok
+checking that only interface methods can be called remotely... ok
+checking skeleton multithreading... ok
+
+passed: 23       failed: 0       not run: 0
+checking basic remote method call... ok
+checking remote method argument passing... ok
+checking remote method return value... ok
+checking remote method exception forwarding... ok
+checking argument passing, return, and exceptions at once... ok
+checking method calls on stub created from a skeleton... ok
+checking that skeleton constructors and stub factory reject null... ok
+checking that skeleton constructors and stub factory reject bad interfaces... ok
+checking skeleton listening... ok
+checking skeleton restart... ok
+checking that stubs can't be made from skeletons with no address... ok
+checking that skeleton calls service_error... ok
+checking that stubs attempt connections... ok
+checking stub equals method... ok
+checking stub hashCode method... ok
+checking stub toString method... ok
+checking that stubs are serializable... ok
+checking method overloading... ok
+checking method shadowing... ok
+checking remote interface inheritance... ok
+checking server subclassing... ok
+checking that only interface methods can be called remotely... ok
+checking skeleton multithreading... ok
+
+passed: 23       failed: 0       not run: 0
+checking basic remote method call... ok
+checking remote method argument passing... ok
+checking remote method return value... ok
+checking remote method exception forwarding... ok
+checking argument passing, return, and exceptions at once... ok
+checking method calls on stub created from a skeleton... ok
+checking that skeleton constructors and stub factory reject null... ok
+checking that skeleton constructors and stub factory reject bad interfaces... ok
+checking skeleton listening... ok
+checking skeleton restart... ok
+checking that stubs can't be made from skeletons with no address... ok
+checking that skeleton calls service_error... ok
+checking that stubs attempt connections... ok
+checking stub equals method... ok
+checking stub hashCode method... ok
+checking stub toString method... ok
+checking that stubs are serializable... ok
+checking method overloading... ok
+checking method shadowing... ok
+checking remote interface inheritance... ok
+checking server subclassing... ok
+checking that only interface methods can be called remotely... ok
+checking skeleton multithreading... ok
+
+passed: 23       failed: 0       not run: 0
+checking basic remote method call... ok
+checking remote method argument passing... ok
+checking remote method return value... ok
+checking remote method exception forwarding... ok
+checking argument passing, return, and exceptions at once... ok
+checking method calls on stub created from a skeleton... ok
+checking that skeleton constructors and stub factory reject null... ok
+checking that skeleton constructors and stub factory reject bad interfaces... ok
+checking skeleton listening... ok
+checking skeleton restart... ok
+checking that stubs can't be made from skeletons with no address... ok
+checking that skeleton calls service_error... ok
+checking that stubs attempt connections... ok
+checking stub equals method... ok
+checking stub hashCode method... ok
+checking stub toString method... ok
+checking that stubs are serializable... ok
+checking method overloading... ok
+checking method shadowing... ok
+checking remote interface inheritance... ok
+checking server subclassing... ok
+checking that only interface methods can be called remotely... ok
+checking skeleton multithreading... ok
+
+passed: 23       failed: 0       not run: 0
+checking basic remote method call... ok
+checking remote method argument passing... ok
+checking remote method return value... ok
+checking remote method exception forwarding... ok
+checking argument passing, return, and exceptions at once... ok
+checking method calls on stub created from a skeleton... ok
+checking that skeleton constructors and stub factory reject null... ok
+checking that skeleton constructors and stub factory reject bad interfaces... ok
+checking skeleton listening... ok
+checking skeleton restart... ok
+checking that stubs can't be made from skeletons with no address... ok
+checking that skeleton calls service_error... ok
+checking that stubs attempt connections... ok
+checking stub equals method... ok
+checking stub hashCode method... ok
+checking stub toString method... ok
+checking that stubs are serializable... ok
+checking method overloading... ok
+checking method shadowing... ok
+checking remote interface inheritance... ok
+checking server subclassing... ok
+checking that only interface methods can be called remotely... ok
+checking skeleton multithreading... ok
+
+passed: 23       failed: 0       not run: 0
+checking basic remote method call... ok
+checking remote method argument passing... ok
+checking remote method return value... ok
+checking remote method exception forwarding... ok
+checking argument passing, return, and exceptions at once... ok
+checking method calls on stub created from a skeleton... ok
+checking that skeleton constructors and stub factory reject null... ok
+checking that skeleton constructors and stub factory reject bad interfaces... ok
+checking skeleton listening... ok
+checking skeleton restart... ok
+checking that stubs can't be made from skeletons with no address... ok
+checking that skeleton calls service_error... ok
+checking that stubs attempt connections... ok
+checking stub equals method... ok
+checking stub hashCode method... ok
+checking stub toString method... ok
+checking that stubs are serializable... ok
+checking method overloading... ok
+checking method shadowing... ok
+checking remote interface inheritance... ok
+checking server subclassing... ok
+checking that only interface methods can be called remotely... ok
+checking skeleton multithreading... ok
+
+passed: 23       failed: 0       not run: 0
+checking basic remote method call... ok
+checking remote method argument passing... ok
+checking remote method return value... ok
+checking remote method exception forwarding... ok
+checking argument passing, return, and exceptions at once... ok
+checking method calls on stub created from a skeleton... ok
+checking that skeleton constructors and stub factory reject null... ok
+checking that skeleton constructors and stub factory reject bad interfaces... ok
+checking skeleton listening... ok
+checking skeleton restart... ok
+checking that stubs can't be made from skeletons with no address... ok
+checking that skeleton calls service_error... ok
+checking that stubs attempt connections... ok
+checking stub equals method... ok
+checking stub hashCode method... ok
+checking stub toString method... ok
+checking that stubs are serializable... ok
+checking method overloading... ok
+checking method shadowing... ok
+checking remote interface inheritance... ok
+checking server subclassing... ok
+checking that only interface methods can be called remotely... ok
+checking skeleton multithreading... ok
+
+passed: 23       failed: 0       not run: 0
+checking basic remote method call... ok
+checking remote method argument passing... ok
+checking remote method return value... ok
+checking remote method exception forwarding... ok
+checking argument passing, return, and exceptions at once... ok
+checking method calls on stub created from a skeleton... ok
+checking that skeleton constructors and stub factory reject null... ok
+checking that skeleton constructors and stub factory reject bad interfaces... ok
+checking skeleton listening... ok
+checking skeleton restart... ok
+checking that stubs can't be made from skeletons with no address... ok
+checking that skeleton calls service_error... ok
+checking that stubs attempt connections... ok
+checking stub equals method... ok
+checking stub hashCode method... ok
+checking stub toString method... ok
+checking that stubs are serializable... ok
+checking method overloading... ok
+checking method shadowing... ok
+checking remote interface inheritance... ok
+checking server subclassing... ok
+checking that only interface methods can be called remotely... ok
+checking skeleton multithreading... ok
+
+passed: 23       failed: 0       not run: 0
+checking basic remote method call... ok
+checking remote method argument passing... ok
+checking remote method return value... ok
+checking remote method exception forwarding... ok
+checking argument passing, return, and exceptions at once... ok
+checking method calls on stub created from a skeleton... ok
+checking that skeleton constructors and stub factory reject null... ok
+checking that skeleton constructors and stub factory reject bad interfaces... ok
+checking skeleton listening... ok
+checking skeleton restart... ok
+checking that stubs can't be made from skeletons with no address... ok
+checking that skeleton calls service_error... ok
+checking that stubs attempt connections... ok
+checking stub equals method... ok
+checking stub hashCode method... ok
+checking stub toString method... ok
+checking that stubs are serializable... ok
+checking method overloading... ok
+checking method shadowing... ok
+checking remote interface inheritance... ok
+checking server subclassing... ok
+checking that only interface methods can be called remotely... ok
+checking skeleton multithreading... ok
+
+passed: 23       failed: 0       not run: 0
+checking basic remote method call... ok
+checking remote method argument passing... ok
+checking remote method return value... ok
+checking remote method exception forwarding... ok
+checking argument passing, return, and exceptions at once... ok
+checking method calls on stub created from a skeleton... ok
+checking that skeleton constructors and stub factory reject null... ok
+checking that skeleton constructors and stub factory reject bad interfaces... ok
+checking skeleton listening... ok
+checking skeleton restart... ok
+checking that stubs can't be made from skeletons with no address... ok
+checking that skeleton calls service_error... ok
+checking that stubs attempt connections... ok
+checking stub equals method... ok
+checking stub hashCode method... ok
+checking stub toString method... ok
+checking that stubs are serializable... ok
+checking method overloading... ok
+checking method shadowing... ok
+checking remote interface inheritance... ok
+checking server subclassing... ok
+checking that only interface methods can be called remotely... ok
+checking skeleton multithreading... ok
+
+passed: 23       failed: 0       not run: 0
+checking basic remote method call... ok
+checking remote method argument passing... ok
+checking remote method return value... ok
+checking remote method exception forwarding... ok
+checking argument passing, return, and exceptions at once... ok
+checking method calls on stub created from a skeleton... ok
+checking that skeleton constructors and stub factory reject null... ok
+checking that skeleton constructors and stub factory reject bad interfaces... ok
+checking skeleton listening... ok
+checking skeleton restart... ok
+checking that stubs can't be made from skeletons with no address... ok
+checking that skeleton calls service_error... ok
+checking that stubs attempt connections... ok
+checking stub equals method... ok
+checking stub hashCode method... ok
+checking stub toString method... ok
+checking that stubs are serializable... ok
+checking method overloading... ok
+checking method shadowing... ok
+checking remote interface inheritance... ok
+checking server subclassing... ok
+checking that only interface methods can be called remotely... ok
+checking skeleton multithreading... ok
+
+passed: 23       failed: 0       not run: 0
+checking basic remote method call... ok
+checking remote method argument passing... ok
+checking remote method return value... ok
+checking remote method exception forwarding... ok
+checking argument passing, return, and exceptions at once... ok
+checking method calls on stub created from a skeleton... ok
+checking that skeleton constructors and stub factory reject null... ok
+checking that skeleton constructors and stub factory reject bad interfaces... ok
+checking skeleton listening... ok
+checking skeleton restart... ok
+checking that stubs can't be made from skeletons with no address... ok
+checking that skeleton calls service_error... ok
+checking that stubs attempt connections... ok
+checking stub equals method... ok
+checking stub hashCode method... ok
+checking stub toString method... ok
+checking that stubs are serializable... ok
+checking method overloading... ok
+checking method shadowing... ok
+checking remote interface inheritance... ok
+checking server subclassing... ok
+checking that only interface methods can be called remotely... ok
+checking skeleton multithreading... ok
+
+passed: 23       failed: 0       not run: 0
+checking basic remote method call... ok
+checking remote method argument passing... ok
+checking remote method return value... ok
+checking remote method exception forwarding... ok
+checking argument passing, return, and exceptions at once... ok
+checking method calls on stub created from a skeleton... ok
+checking that skeleton constructors and stub factory reject null... ok
+checking that skeleton constructors and stub factory reject bad interfaces... ok
+checking skeleton listening... ok
+checking skeleton restart... ok
+checking that stubs can't be made from skeletons with no address... ok
+checking that skeleton calls service_error... ok
+checking that stubs attempt connections... ok
+checking stub equals method... ok
+checking stub hashCode method... ok
+checking stub toString method... ok
+checking that stubs are serializable... ok
+checking method overloading... ok
+checking method shadowing... ok
+checking remote interface inheritance... ok
+checking server subclassing... ok
+checking that only interface methods can be called remotely... ok
+checking skeleton multithreading... ok
+
+passed: 23       failed: 0       not run: 0
+checking basic remote method call... ok
+checking remote method argument passing... ok
+checking remote method return value... ok
+checking remote method exception forwarding... ok
+checking argument passing, return, and exceptions at once... ok
+checking method calls on stub created from a skeleton... ok
+checking that skeleton constructors and stub factory reject null... ok
+checking that skeleton constructors and stub factory reject bad interfaces... ok
+checking skeleton listening... ok
+checking skeleton restart... ok
+checking that stubs can't be made from skeletons with no address... ok
+checking that skeleton calls service_error... ok
+checking that stubs attempt connections... ok
+checking stub equals method... ok
+checking stub hashCode method... ok
+checking stub toString method... ok
+checking that stubs are serializable... ok
+checking method overloading... ok
+checking method shadowing... ok
+checking remote interface inheritance... ok
+checking server subclassing... ok
+checking that only interface methods can be called remotely... ok
+checking skeleton multithreading... ok
+
+passed: 23       failed: 0       not run: 0

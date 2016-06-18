@@ -1,0 +1,22 @@
+#!/bin/bash
+# Argument 1st is path to string.txt, if not supplied default string.txt is used
+R=""
+if [ $# -eq 0 ]
+  then
+    R="./string.txt"
+  else
+    R=$1
+fi
+
+cd data
+cp -f $R .
+echo "Building data volume container"
+docker build -t jayantmalani/data:latest .
+cd ../server
+echo "Building Server container"
+docker build -t jayantmalani/server:latest .
+cd ../client
+echo "Building Client container"
+docker build -t jayantmalani/client:latest .
+cd ..
+

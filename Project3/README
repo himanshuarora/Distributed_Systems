@@ -1,0 +1,65 @@
+=======RMI Library for JAVA ===========
+Contributors :
+Jayant Malani  - A53102766
+Himanshu Arora - A53097039
+
+Contents of zip 
+1. hadoop-master dockerfile and associated configuration and script files
+2. hadoop-slave dockerfile and associated configuration and script files
+3. script.sh to compile and run the hadoop cluster <optional, you can supply input.txt file>
+
+Getting Started 
+
+Prerequisites:
+1. Ubuntu 14.04 or above
+2. Linux 3.19.50 or above
+3. Java 7
+4. Latest docker installation to run Demo
+
+Run:
+./script.sh
+or
+./script.sh input.txt
+
+Architecture: 
+We have 5 docker containers.
+1 - Master Node
+4 - Client Nodes
+
+High Level Script Flow:
+1) Clean up unnessary containers and images
+2) Compile Master Node image
+3) Compile Client Node image
+4) Run master node and 4 client node containers
+5) Start hadoop cluster script
+6) Compile the Java Code
+7) Run the jar file & print the output
+
+Description of WordCount.java:
+TokenizerMapper class contains 2 subclasses  
+1) TokenizerMapper
+2) IntSumReducer
+
+TokenizerMapper - Hadoop tokenizes the file line by line ( having new line as the delimiter).
+It then tokenizes the line supplied in with StringTokenizer function of Java, the default
+tokens being "  \t\n\r\f". After that, it creates a key value pair with key being the bigram and value being 1.
+It then writes it to the to the temporary output.
+
+IntSumReducer - extends Reducer<Text,IntWritable,Text,IntWritable>. This means that the input
+of the reducer will be Text, IntWritable and the output of this reducer will be Text,IntWritable. 
+We iterate over a key (Text in this case, which is this case is the bigram set in the mapper).
+We sum the count of the same keys which gives us the bigram frequency.
+
+After the Job is finished, we walk through all the output directories in output folder and filter out 
+the __SUCCESS directory. We then sort the bigrams according to their frequency and print the total total unique bigrams, number of bigrams (sum of frequencies), bigram with max frequency, bi grams that account for top 10% of total bigrams count.
+
+Sample input
+
+Hi it is it is it\n
+is it is it is\n.
+
+Sample output
+
+Bigram with max frequency : it is 4
+
+In above example you can see that the "it\n is" is not counted in the frequency because these two lines are passed in two different mappers.

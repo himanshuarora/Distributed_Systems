@@ -1,0 +1,7 @@
+#!/bin/bash
+
+cd client
+docker build -t jayantmalani/client:latest .
+cd ..
+echo "Starting Client Container"
+docker run --net=mynetwork --volumes-from dataDock --name catclient jayantmalani/client:latest python client.py /data/string.txt $1

@@ -1,0 +1,50 @@
+=======RMI Library for JAVA ===========
+Contributors :
+Jayant Malani  - A53102766
+Himanshu Arora - A53097039
+
+Contents of zip 
+1. RMI Library with starter environment
+2. Demo for RMI Library on Docker Containers
+
+Getting Started 
+These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
+
+Prerequisites:
+1. Ubuntu 14.04 or above
+2. Linux 3.19.50 or above
+3. Java 7
+4. Latest docker installation to run Demo
+
+Testing:
+1. To test RMI in your own environment copy 'rmi' folder present in project10/ folder in your test environment
+2. Do a make
+3. Run the tests
+
+Run PingPongServer Demo:
+1. To run the Demo do cd deliverable/
+2. run ./test.sh
+
+Architecture: 
+We have 4 docker containers.
+a) dataVol - contains a copy of the rmi folder. The rmi registery, server and client use it. 
+b) rmireg - our own implementation of the rmi registery. 
+c) server - the ping pong server containing the Factory and the server.
+d) client - the ping pong client.
+
+The order of container invocation is same as the order mentioned above. 
+
+
+
+Files:
+package-info.java
+RMIException.java - Exception Class for RMI
+RMIinterface.java - Interface for RMIregistry
+RMIregistry.java - Contains RMIregistry implementation
+RMIServiceThread.java - Contains Service Thread Implementation
+SampleClassUnderTest.java 
+Skeleton.java - Contains Skeleton Implementation
+Stub.java - Contains Stub Implementation
+StubProxy.java - Contains Proxy Object Implementation
+
+

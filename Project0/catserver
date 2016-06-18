@@ -1,0 +1,15 @@
+#!/bin/bash
+
+cp ./$1 .
+cd data
+docker build -t jayantmalani/data:latest .
+cd ../server
+docker build -t jayantmalani/server:latest .
+cd ..
+
+echo "Starting mynetwork"
+docker network create -d bridge mynetwork
+echo "Starting dataDock Volume"
+docker run -v /data/ --name dataDock jayantmalani/data:latest bin/bash
+echo "Starting Server Container"
+docker run -d --net=mynetwork --volumes-from dataDock --name catserver jayantmalani/server:latest python Server.py /data/string.txt $2 

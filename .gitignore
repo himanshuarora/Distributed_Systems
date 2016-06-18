@@ -1,0 +1,12 @@
+*.class
+
+*.war
+*.ear
+
+
+
+Project0/*.class
+Project1/*.class
+Project2/*.class
+Project1/Helper/*.class
+*.swp

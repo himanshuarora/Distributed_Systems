@@ -1,0 +1,11 @@
+#!/bin/bash
+R=""
+if [ $# -eq 0 ]
+  then
+    R="45454"
+  else
+    R=$1
+fi
+
+./makeScript
+./runScript $R 

@@ -1,0 +1,53 @@
+Follow Steps for running the hw0 project : 
+
+Easiest way, call below 3 commands :
+
+unzip hw0.zip
+cd hw0
+./finalScript
+
+
+Advance way : 
+Please follow steps to run, after unzipping:
+
+FinalScript Mode :
+
+Just run the ./finalScript
+
+You can pass the Port number as optional argument
+
+
+
+Makescript Mode :
+
+run ./makeScript 
+
+You can pass path of string.txt as argument, please use full path
+
+run ./runScript
+
+You can pass port number as argument
+
+
+
+
+
+Important Files 
+
+finalScript - calls the makeScript & runScript
+
+makeScript - builds data volume, client and server images
+
+runScript - creates network, run data volume, client and server containers, and check whether output is correct or not. Does clean up afterwards.
+
+data/Dockerfile - docker file for data volume
+
+data/string.txt - string.txt file
+
+client/Dockerfile - docker file for client
+
+client/client.py - Source code for client 
+
+server/Dockerfile - docker file for client
+
+server/Server.py - Source code for server

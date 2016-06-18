@@ -1,0 +1,3 @@
+#usr/bin/bash
+docker build -t jayantmalani/client:latest .
+docker run -d --name catclient --net=host jayantmalani/client /bin/bash python client.py 45455
